@@ -20,8 +20,8 @@ I noticed a desire to learn a new skill, specifically a skill that didn’t come
 
 I felt a noticeable difference in my happiness, but I was still craving a change in my professional life. I was increasing aware that, although I was a great generalist, I wanted to be specialized in something. I was ready for a change and a challenge, and then all of a sudden I wanted nothing more. 
 
-So why not software engineering?
-
 I look forward to learning a valuable skill and entering into a profession that tests and challenges my problem solving abilities and memory, that can lead to working on rewarding projects and job flexibility. And as a female, I look forward to help shift the stereotype of a software developer. 
+
+So why not software engineering?
 
 
