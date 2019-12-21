@@ -6,7 +6,7 @@ permalink:  why_i_chose_to_study_software_engineering
 ---
 
 
-From as young as I can remember my parents encouraged me to follow my passion. However at the time I didn’t feel particular passionate about anything, besides the typical interests of a young girl. As I grew up, I struggled to find my passion, at least with the definition I held; a very strong interest in an activity or an object. My inability to identify my own passion led to an immense stress to find that beloved interest, and feelings of inadequacy that I did not possess one. 
+From as young as I can remember my parents encouraged me to follow my passion. However at the time I didn’t feel particular passionate about anything, besides the typical interests of a young girl. As I grew up, I struggled to find my "passion", at least with the definition I held; a very strong interest in an activity or an object. My inability to identify my own passion led to an immense stress to find that beloved interest, and feelings of inadequacy that I did not possess one. 
 
 I entered college as a Liberal Arts major in efforts to experiment with different disciplines in pursuit of finding my future career. At this point I had eliminated the word passion from my vocabulary and instead was in pursuit of my interests. After spending the first year debating my options, I committed to psychology. I loved working in the lab environment; creating and testing hypothesis. In my last year of college when I started to take a deeper look in my options for the next step in my career, I found myself becoming more disinterested in working in the field of psychology research. After working as a bartender for a while, I landed a marketing job with a local brewery. 
 
