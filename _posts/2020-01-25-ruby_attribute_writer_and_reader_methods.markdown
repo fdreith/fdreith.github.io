@@ -65,9 +65,9 @@ If you wanted the ability to read a variable (but not write),  or write a variab
 
 ```
 class Person
-	attr_accessor   :name 
-	attr_reader   :age
-	attr_writer   :opinions
+	attr_accessor  :name 
+	attr_reader    :age
+	attr_writer    :opinions
 
 end
 ```
