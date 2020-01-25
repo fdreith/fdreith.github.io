@@ -1,19 +1,19 @@
 ---
 layout: post
-title:      "Ruby Attribute Writer and Reader Methods"
-date:       2020-01-25 22:05:47 +0000
+title:      "Ruby Attribute Writers and Readers"
+date:       2020-01-25 17:05:47 -0500
 permalink:  ruby_attribute_writer_and_reader_methods
 ---
 
 
 Instance variables, denoted with a @ symbol, allow you to access information about the instance outside the scope of one particular method, within the scope of the instance. The purpose of an attribute writer method is to be able to assign local variables to an instance variable, and the purpose of an attribute reader method is to access the value of that instance variable. 
 
-In order for the reader method to read the variable, the variable needs to be defined. It is the job of the writer method to define the variable. A writer method looks like: 
+In order for the reader method to read the variable, the variable needs to be defined. It is the job of the writer method to define the variable. A writer method looks like:&#x2028;
 
 ```
 def name=(name_given)
 	@name = name_given 
-end 
+end&#x2028;
 ```
 
 The writer method (name=), accepts an argument of a local variable (name_given), and sets it to be the value of the instance variable (@name). Writer methods are also referred to as “setter methods” because they set the value of an instance variable. 
