@@ -63,6 +63,17 @@ end
 
 If you wanted the ability to read a variable (but not write),  or write a variable (but not read it), you would use the attr_reader, or attr_writer methods, respectively.
 
+```
+class Person
+	attr_accessor   :name 
+	attr_reader   :age
+	attr_writer   :opinions
+
+end
+```
+
+In the above example, the Person's name can be changes and accessed, we can read their age but not change their age, and their opinions can be changed, but not read by others. 
+
 
 
 
