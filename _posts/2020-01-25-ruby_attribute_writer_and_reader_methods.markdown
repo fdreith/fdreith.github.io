@@ -45,7 +45,7 @@ NoMethodError:
        undefined method `name’ for Person:Class
 ```
 
-3)  If you call a variable without defining it, name, or if you call a defined variable outside of the scope of the method it was defined in (hence the purpose of instance variables), it will give an undefined local variable name error:
+3)  If you call a variable without defining it, name, or if you call a defined variable outside of the scope of the method it was defined in (which is where instance variables come in handy), it will give an undefined local variable name error:
 
 ```
 NameError:
