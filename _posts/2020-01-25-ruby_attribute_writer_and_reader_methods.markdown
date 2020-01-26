@@ -28,9 +28,9 @@ def name
 end
 ```
 
-The purpose of this reader method is to give us the ability to call the method Class.name on an instance of the class to return the instance variable’s value. The reader method is also called the getter method because it “gets” or retrieves the value of the instance variable. 
+The purpose of this reader method is reveal the value of the saved variabl by to giving us the ability to call the method .name on an instance of the class to return the instance variable’s value. The reader method is also called the getter method because it “gets” or retrieves the value of the instance variable. 
 
-Now we can use the method .name to return a name of an instance of a variable, in this case let’s say on the Person class, Person.name will return the assigned string. 
+Now we can use the method .name to return a name of an instance of a variable, in this case let’s say on the Person class, person.name, will return the assigned string. 
 
 An instance variable can be set to any data type. Above we defined it to a local variable because we were defining a method that can be used to pass in a data type through an argument to be set to that instance variable. In our example, if we wanted to set the value of name to a Person’s name, we would pass in a string, “Karen”, to set the value of @name = “Karen”. A string is an object that holds a group of characters — usually a word or sentence, between quotation marks. If you were to try to set your instance variable to, karen (without quotation marks, and lowercase because uncased would indicate an uninitialized constant), @name = karen, Ruby would think you were setting it to a variable of karen, which at this point is an empty variable. 
 
