@@ -28,7 +28,7 @@ def name
 end
 ```
 
-The purpose of this reader method is reveal the value of the saved variabl by to giving us the ability to call the method .name on an instance of the class to return the instance variable’s value. The reader method is also called the getter method because it “gets” or retrieves the value of the instance variable. 
+The purpose of this reader method is reveal the value of the saved variable by to giving us the ability to call a method on an instance of the class to return the instance variable’s value. The reader method is also called the getter method because it “gets” or retrieves the value of the instance variable. 
 
 Now we can use the method .name to return a name of an instance of a variable, in this case let’s say on the Person class, person.name, will return the assigned string. 
 
