@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Scopes to Filter an Index Page"
-date:       2020-03-22 20:51:41 +0000
+date:       2020-03-22 16:51:43 -0400
 permalink:  using_scopes_to_filter_an_index_page
 ---
 
@@ -34,7 +34,7 @@ Tested, and they worked! Except they weren’t chainable. Scopes have the same f
 
 When I went to test, my scopes weren’t working! Then I read in the following in Ruby and Rails Guides: 
 
-> "Be aware that, when given in the Array format, default_scope query arguments cannot be converted to a Hash for default attribute assignment.”  - [https://guides.rubyonrails.org/active_record_querying.html#scopes]
+> "Be aware that, when given in the Array format, default_scope query arguments cannot be converted to a Hash for default attribute assignment.”  - https://guides.rubyonrails.org/active_record_querying.html#scopes
 > 
 
 I switched the : (colon), to a single = (equals sign) instead of the == (double equals) since we are querying ActiveRecord. 
