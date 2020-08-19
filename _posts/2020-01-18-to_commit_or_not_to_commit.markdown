@@ -1,19 +1,16 @@
 ---
 layout: post
-title:      "To commit, or not to commit"
-date:       2020-01-18 22:25:49 +0000
+title:      "Deleted No Longer Relevant"
+date:       2020-01-18 17:25:50 -0500
 permalink:  to_commit_or_not_to_commit
 ---
 
 
 
 
-Finishing my first project of building a CLI was a roller coaster of emotions. Going into it I felt ready for the challenge, with the idea that the most challenging part, for me, would be using my own logic to code something from scratch. Just like learning a foreign language, it’s easier to comprehend someone speaking a language that you are learning, than it is to write. While going through the labs, I felt I was competently understanding the material and getting better at trouble shooting issues, however the lessons surrounding the lab gave me a pretty strong indication what type of logic the solutions would need. This project both illustrated to me that I have a better understanding of the logic needed to solve problems without being told, as well as heavily tested my self-efficacy. 
 
-Starting the project I felt confident in the ideas I had for the project. I could picture how they would function, and how I would write my code with the use of metaprogramming and iteration to fulfill their functionality. After searching for APIs, I chose to write a recipe finder.  Surprisingly, I didn’t struggle as much as I thought I would with coming up with my own logic to create the application’s functionality, with the exception of a few speed bumps and roadblocks. One of those roadblocks was that I thought I would be able to create a method that would randomly choose a recipe from the website, however the API I chose requires you to search from a keyword. I coded around this to include the random recipe method by searching for the top googled recipes, as well as a few other google searches to gather a list of keywords for a recipe search. Then I coded the random method, just as I had planned, but pulling form an array of my list of keywords. 
+Deleted blog post. When I originally wrote this blog I didn't quite understand the purpose of the blogs to be educational. I deleted this blog because it was not educational. 
 
-The surprisingly difficult parts for me, were relatively basic concepts. Getting use to and understanding file structure and how they interact. Although I had seen how the files in the labs are organized and understood aspects of how they communication, it was difficult to structure them from scratch, and how to set up the files that set up the program. By the completion of writing the CLI, I gained far more understanding of how the different files were connected and their purpose. Another learning curve was the use of GitHub and how to ‘git commit’ through the terminal… Oh, the terminal commands! I had been so used to running rspec or learn that I forgot how to run code outside of the testing environment. Why won’t my project run in the terminal, when it’s running in my VSCode terminal?! Oh, of course…because they are in different directories. The amount of times I felt completely incompetent over simple, basic concepts hit my confidence pretty hard. 
+Deleted blog post. When I originally wrote this blog I didn't quite understand the purpose of the blogs to be educational. I deleted this blog because it was not educational. 
 
-The most memorable learning moment being when I deleted all of the progress I had made over the course of 3 days, only to revert back to my initial commit of my project… After a lot of googling and the help of my teacher I was able to to undo the ‘hard’ and final commit, phew! And I took the rest of the evening contemplating on my patience how I need to work on slowing down and not to act fast when I become frazzled when I can’t find a solution to a problem that I *think* I have. Had I taken more time to find out exactly what my problem was instead of assuming, I wouldn’t have created a larger, perhaps irreversible problem. A great learning experience I wasn’t quite prepared for. Lesson learned, hopefully.. I’m only human. 
-
-So here I am, at the other side of my first project, sans a couple years off my life, a screenshot of my dire mistake (that I am going to print as a reminder), with a better ability to pry into those problems and debug, being able to write and read a language that had previously looked like characters typed from a cat walking across a keyboard, but best of all, knowing the answer to the question: to commit, or not to commit?
+Deleted blog post. When I originally wrote this blog I didn't quite understand the purpose of the blogs to be educational. I deleted this blog because it was not educational. 
